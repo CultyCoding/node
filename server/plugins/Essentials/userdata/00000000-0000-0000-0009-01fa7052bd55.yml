@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.54.147.191
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686986072678
+  login: 1686985297175
+money: '0'
+logoutlocation:
+  world: a311525d-b5e0-4413-8edb-94b223221a20
+  world-name: world
+  x: 39489.5
+  y: 73.0
+  z: 31153.5
+  yaw: -1.412933349609375
+  pitch: 89.89999389648438
+last-account-name: _SleepyArturo
+past-usernames:
+- .SleepyArturo
+lastlocation:
+  world: a311525d-b5e0-4413-8edb-94b223221a20
+  world-name: world
+  x: 39390.69999
+  y: -18.0
+  z: 31240.30001
+  yaw: 103.02020263671875
+  pitch: -89.89999389648438

@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 156.146.51.132
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1687171323123
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1687356054792
+  login: 1687355815499
+money: '947.9999999999999'
+last-account-name: _GreenCulty
+logoutlocation:
+  world: 825e2245-ff8c-4c2c-a75f-2e5d568fe604
+  world-name: world
+  x: 2759.6692
+  y: 68.0
+  z: -1383.9274
+  yaw: 102.55194091796875
+  pitch: 20.663711547851562
+lastlocation:
+  world: c5f8806f-a152-4c5a-bf39-6e8768e3f2d3
+  world-name: lobby
+  x: 8.538514
+  y: 66.0
+  z: 2.7646058
+  yaw: 11.492111206054688
+  pitch: 17.032333374023438
+past-usernames:
+- .GreenCulty
+homes:
+  home:
+    world: 825e2245-ff8c-4c2c-a75f-2e5d568fe604
+    world-name: world
+    x: 114.5701
+    y: 117.0
+    z: 97.40158
+    yaw: -40.8135986328125
+    pitch: 15.546035766601562

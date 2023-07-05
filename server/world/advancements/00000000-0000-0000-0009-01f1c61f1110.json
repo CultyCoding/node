@@ -1,0 +1,74 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-07-05 04:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2023-07-05 08:03:08 +0000",
+      "minecraft:sparse_jungle": "2023-07-05 04:03:09 +0000",
+      "minecraft:forest": "2023-07-05 05:42:24 +0000",
+      "minecraft:ocean": "2023-07-05 04:08:45 +0000",
+      "minecraft:savanna": "2023-07-05 05:42:14 +0000",
+      "minecraft:plains": "2023-07-05 04:10:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2023-07-05 04:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_tripwire_hook": "2023-07-05 04:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-07-05 04:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-07-05 04:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2023-07-05 04:26:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2023-07-05 04:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2023-07-05 04:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-07-05 05:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2023-07-05 08:03:33 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.74.2.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1688547174960
+  login: 1688547056421
+money: '78.25'
+last-account-name: _BlueCulty
+logoutlocation:
+  world: 825e2245-ff8c-4c2c-a75f-2e5d568fe604
+  world-name: world
+  x: 0.0
+  y: 90.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: c5f8806f-a152-4c5a-bf39-6e8768e3f2d3
+  world-name: lobby
+  x: 7.1436925
+  y: 65.5
+  z: 3.6849937
+  yaw: -130.6507568359375
+  pitch: -3.247528076171875

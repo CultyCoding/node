@@ -1,0 +1,14 @@
+location: lobby:-2.564:67.387:-7.430
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '---Ultimate Crate---'
+    height: 0.3
+  - content: Click To Open
+    height: 0.3
+  actions: {}

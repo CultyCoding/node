@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.150.189.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1687075771718
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1687095345429
+  login: 1687095278441
+money: '40936.99999999999998'
+last-account-name: _AyoTimee
+logoutlocation:
+  world: 825e2245-ff8c-4c2c-a75f-2e5d568fe604
+  world-name: world
+  x: 0.0
+  y: 64.0
+  z: 0.0
+  yaw: -1.52587890625E-5
+  pitch: 0.0
+past-usernames:
+- .AyoTimee
+lastlocation:
+  world: a311525d-b5e0-4413-8edb-94b223221a20
+  world-name: world
+  x: -33783.5
+  y: 63.0
+  z: 16182.065
+  yaw: 70.05718994140625
+  pitch: 26.480926513671875
+homes:
+  home:
+    world: 825e2245-ff8c-4c2c-a75f-2e5d568fe604
+    world-name: world
+    x: 115.38045
+    y: 118.0
+    z: 101.60963
+    yaw: 97.13717651367188
+    pitch: 16.731658935546875

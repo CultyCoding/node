@@ -1,0 +1,18 @@
+location: lobby:-6.000:68.000:4.000
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '##Top Time Played##'
+    height: 0.3
+  - content: '&a#1 %ajlb_lb_statistic_time_played_1_alltime_name% %ajlb_lb_statistic_time_played_1_alltime_value%'
+    height: 0.3
+  - content: '&a#2 %ajlb_lb_statistic_time_played_2_alltime_name% %ajlb_lb_statistic_time_played_2_alltime_value%'
+    height: 0.3
+  - content: '&a#3 %ajlb_lb_statistic_time_played_3_alltime_name% %ajlb_lb_statistic_time_played_3_alltime_value%'
+    height: 0.3
+  actions: {}

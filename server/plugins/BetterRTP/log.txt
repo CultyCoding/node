@@ -1,0 +1,21 @@
+2023-07-05 07:57:31 [INFO]: Cooldown = 130
+2023-07-05 07:57:31 [INFO]: Loading Overrides...
+2023-07-05 07:57:31 [INFO]: Loading World Types...
+2023-07-05 07:57:31 [INFO]: - World Type for 'world' set to 'NORMAL'
+2023-07-05 07:57:31 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2023-07-05 07:57:31 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2023-07-05 07:57:31 [INFO]: Loading Defaults...
+2023-07-05 07:57:31 [INFO]: Loading Custom Worlds...
+2023-07-05 07:57:31 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2023-07-05 07:57:31 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2023-07-05 07:57:41 [INFO]: Database PLAYERS:Players configured and loaded!
+2023-07-05 07:57:41 [INFO]: Database COOLDOWN:world configured and loaded!
+2023-07-05 07:57:41 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2023-07-05 07:57:41 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2023-07-05 07:57:41 [INFO]: Database COOLDOWN:lobby configured and loaded!
+2023-07-05 07:57:41 [INFO]: Database QUEUE:Queue configured and loaded!
+2023-07-05 07:57:41 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2023-07-05 07:57:42 [INFO]: Attempting to queue up some more safe locations...
+2023-07-05 07:57:43 [INFO]: Queueing paused, max queue limit reached!
+2023-07-05 08:03:08 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-2263.5,y=77.0,z=2252.5,pitch=-3.247528,yaw=-130.65076}
+2023-07-05 08:59:20 [INFO]: Disabling BetterRTP v3.6.9-1

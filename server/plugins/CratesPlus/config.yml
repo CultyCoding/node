@@ -1,0 +1,647 @@
+Config Version: 6
+Update Checks: true
+Update Branch: spigot
+Metrics: true
+Default Opener: BasicGUI
+Default Cooldown: 5
+Crate Protection: false
+Disable Key Swapping: false
+Default Hologram Text:
+- '%crate%'
+- Right-Click to Open!
+- Left-Click to Preview!
+Crates:
+  UltraEnder:
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: IRON_SWORD
+        Item Data: 0
+        Percentage: 0
+        Name: '&6&lExample Sword'
+        Amount: 1
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: WHITE
+  Legend:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: WHITE
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: DIAMOND_SWORD
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - MENDING-1
+        - DAMAGE_ALL-3
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            MENDING: 1
+            DAMAGE_ALL: 3
+            DURABILITY: 3
+          repair-cost: 7
+      '2':
+        Type: ITEM
+        Item Type: DIAMOND_PICKAXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - MENDING-1
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            MENDING: 1
+            DURABILITY: 3
+          repair-cost: 3
+      '3':
+        Type: ITEM
+        Item Type: DIAMOND_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - DIG_SPEED-4
+        - MENDING-1
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            MENDING: 1
+            DURABILITY: 3
+          repair-cost: 15
+      '4':
+        Type: ITEM
+        Item Type: DIAMOND_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - MENDING-1
+        - PROTECTION_ENVIRONMENTAL-4
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            MENDING: 1
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+          repair-cost: 7
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - MENDING-1
+        - PROTECTION_ENVIRONMENTAL-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            MENDING: 1
+            PROTECTION_ENVIRONMENTAL: 4
+          repair-cost: 3
+      '6':
+        Type: ITEM
+        Item Type: DIAMOND_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - MENDING-1
+        - PROTECTION_ENVIRONMENTAL-4
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            MENDING: 1
+            PROTECTION_ENVIRONMENTAL: 4
+            DURABILITY: 3
+          repair-cost: 7
+      '7':
+        Type: ITEM
+        Item Type: DIAMOND_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - MENDING-1
+        - PROTECTION_ENVIRONMENTAL-4
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            MENDING: 1
+            PROTECTION_ENVIRONMENTAL: 4
+          repair-cost: 3
+      '8':
+        Type: ITEM
+        Item Type: GOLD_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+  Rare:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: WHITE
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: SPRUCE_LOG
+        Item Data: 1
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 1
+      '2':
+        Type: ITEM
+        Item Type: GLISTERING_MELON_SLICE
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '3':
+        Type: ITEM
+        Item Type: PUMPKIN_SEEDS
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: SWEET_BERRIES
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: MELON_SEEDS
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '6':
+        Type: ITEM
+        Item Type: GLOW_BERRIES
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '7':
+        Type: ITEM
+        Item Type: BEETROOT_SEEDS
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: PUMPKIN
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: BEETROOT
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: GOLDEN_APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '11':
+        Type: ITEM
+        Item Type: GOLDEN_CARROT
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '12':
+        Type: ITEM
+        Item Type: MELON
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '13':
+        Type: ITEM
+        Item Type: MELON_SLICE
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '14':
+        Type: ITEM
+        Item Type: IRON_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-3
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+          repair-cost: 3
+      '15':
+        Type: ITEM
+        Item Type: IRON_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-3
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+          repair-cost: 3
+      '16':
+        Type: ITEM
+        Item Type: IRON_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-3
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+          repair-cost: 3
+      '17':
+        Type: ITEM
+        Item Type: IRON_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - PROTECTION_ENVIRONMENTAL-3
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+          repair-cost: 3
+      '18':
+        Type: ITEM
+        Item Type: WHEAT
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '19':
+        Type: ITEM
+        Item Type: CARROT
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '20':
+        Type: ITEM
+        Item Type: POISONOUS_POTATO
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '21':
+        Type: ITEM
+        Item Type: WHEAT_SEEDS
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '22':
+        Type: ITEM
+        Item Type: APPLE
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '23':
+        Type: ITEM
+        Item Type: BONE_MEAL
+        Item Data: 15
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 15
+      '24':
+        Type: ITEM
+        Item Type: POTATO
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '25':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 2
+        Name: '&fLegend Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§fLegend§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Legend
+            Crate Key"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Right-Click
+            on a \""},{"italic":false,"color":"white","text":"Legend"},{"italic":false,"color":"gray","text":"\"
+            crate"}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"to
+            win an item!"}],"text":""}'
+          - '{"text":""}'
+          enchants:
+            DURABILITY: 1
+      '26':
+        Type: ITEM
+        Item Type: TRIPWIRE_HOOK
+        Item Data: 2
+        Name: '&fUltimate Crate Key'
+        Amount: 1
+        Enchantments:
+        - DURABILITY-1
+        Lore:
+        - §7Right-Click on a "§fUltimate§7" crate
+        - §7to win an item!
+        - ''
+        Metadata:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"white","text":"Ultimate
+            Crate Key"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Right-Click
+            on a \""},{"italic":false,"color":"white","text":"Ultimate"},{"italic":false,"color":"gray","text":"\"
+            crate"}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"to
+            win an item!"}],"text":""}'
+          - '{"text":""}'
+          enchants:
+            DURABILITY: 1
+  Ultimate:
+    Key:
+      Item: TRIPWIRE_HOOK
+      Name: '%type% Crate Key'
+      Enchanted: true
+    Knockback: 0.0
+    Broadcast: false
+    Firework: false
+    Preview: true
+    Block: CHEST
+    Color: WHITE
+    Winnings:
+      '1':
+        Type: ITEM
+        Item Type: NETHERITE_HELMET
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - MENDING-1
+        - PROTECTION_ENVIRONMENTAL-2
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            MENDING: 1
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 3
+          repair-cost: 7
+      '2':
+        Type: ITEM
+        Item Type: NETHERITE_CHESTPLATE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - MENDING-1
+        - PROTECTION_ENVIRONMENTAL-2
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            MENDING: 1
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 3
+          repair-cost: 7
+      '3':
+        Type: ITEM
+        Item Type: NETHERITE_PICKAXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '4':
+        Type: ITEM
+        Item Type: NETHERITE_HOE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '5':
+        Type: ITEM
+        Item Type: DIAMOND
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []
+      '6':
+        Type: ITEM
+        Item Type: NETHERITE_LEGGINGS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - MENDING-1
+        - PROTECTION_ENVIRONMENTAL-2
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            MENDING: 1
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 3
+          repair-cost: 7
+      '7':
+        Type: ITEM
+        Item Type: NETHERITE_SHOVEL
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '8':
+        Type: ITEM
+        Item Type: DIAMOND_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 32
+        Enchantments: []
+        Lore: []
+      '9':
+        Type: ITEM
+        Item Type: NETHERITE_SWORD
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '10':
+        Type: ITEM
+        Item Type: NETHERITE_BOOTS
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments:
+        - MENDING-1
+        - PROTECTION_ENVIRONMENTAL-2
+        - DURABILITY-3
+        Lore: []
+        Metadata:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            MENDING: 1
+            PROTECTION_ENVIRONMENTAL: 2
+            DURABILITY: 3
+          repair-cost: 7
+      '11':
+        Type: ITEM
+        Item Type: NETHERITE_AXE
+        Item Data: 0
+        Name: NONE
+        Amount: 1
+        Enchantments: []
+        Lore: []
+      '12':
+        Type: ITEM
+        Item Type: NETHERITE_BLOCK
+        Item Data: 0
+        Name: NONE
+        Amount: 3
+        Enchantments: []
+        Lore: []
+      '13':
+        Type: ITEM
+        Item Type: IRON_INGOT
+        Item Data: 0
+        Name: NONE
+        Amount: 64
+        Enchantments: []
+        Lore: []

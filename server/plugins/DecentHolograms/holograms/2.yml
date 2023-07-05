@@ -1,0 +1,18 @@
+location: lobby:-5.000:68.000:7.000
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '##TOP MONEY##'
+    height: 0.3
+  - content: '&a#1 %ajlb_lb_vault_eco_balance_1_alltime_name% %ajlb_lb_vault_eco_balance_1_alltime_value%'
+    height: 0.3
+  - content: '&a#2 %ajlb_lb_vault_eco_balance_2_alltime_name% %ajlb_lb_vault_eco_balance_2_alltime_value%'
+    height: 0.3
+  - content: '&a#3 %ajlb_lb_vault_eco_balance_3_alltime_name% %ajlb_lb_vault_eco_balance_3_alltime_value%'
+    height: 0.3
+  actions: {}
